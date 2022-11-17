@@ -1,0 +1,38 @@
+/* TAG ATTRIBUTES*/
+
+body {
+  background-color:#F6F4E8;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  width: 5%;
+  border-width: 4px;
+  border-color: #BACEC1;
+}
+
+h1 {
+  color: #1D3124;
+}
+
+h2 {
+  color: blue;
+}
+
+/* CLASS ATTRIBUTES*/
+
+.Modules_taken:hover{
+  color: red;
+}
+
+.italic{
+  font-style: italic;
+}
+
+
+/* ID ATTRIBUTES*/
+#Work_Experience{
+  color: orange;
+}
